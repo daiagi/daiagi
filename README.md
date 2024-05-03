@@ -21,7 +21,6 @@
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/tailwind-%23081C59.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-<br/>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)&nbsp;
