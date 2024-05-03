@@ -32,9 +32,7 @@
 <br/>
 <br/>
 ## 🎓 Certifications:
-##### AWS Solution Architect
 [![AWS](https://github.com/daiagi/daiagi/assets/22791238/3ffd6331-453b-494c-bb4d-63b31aa1cfd6)](https://www.credly.com/earner/earned/badge/ae7a85e2-4738-4960-a508-532c9d32691c)&nbsp;&nbsp;
-##### Polkadot Blockchain Academy
 [![PBA](https://github.com/daiagi/daiagi/assets/22791238/31441ed5-6da3-4a47-92cc-18eeeb14805b)](https://kodadot.xyz/ahp/gallery/103-24)
 <br/>
 <br/>
