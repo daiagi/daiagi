@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Full Stack Developer from Israel, recently graduated from the Polkadot Blockchain Academy.<br>
-⚡ In my free time, I enjoy hitting the gym, riding motorcycles, and reading.<br>
-👀 Intersted in roles in Backend, Full Stack, Rust, and Web3 development.<br>
+🔭 Full Stack Developer and Polkadot Blockchain Academy graduate, currently implementing the JAM Client in Elixir for Polkadot 2.0.<br>
 <br/>
 ![Profile views](https://komarev.com/ghpvc/?username=daiagi&style=flat-square&color=blue)
 <br>
@@ -13,6 +11,7 @@
 <br/>
 
 ## 💻 Tech Stack:
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%2307405e.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -25,9 +24,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
 <br/>
