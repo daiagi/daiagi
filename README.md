@@ -1,45 +1,15 @@
-# 💫 About Me:
-🔭 Full Stack Developer and Polkadot Blockchain Academy graduate, currently implementing the JAM Client in Elixir for Polkadot 2.0.<br>
-<br/>
-![Profile views](https://komarev.com/ghpvc/?username=daiagi&style=flat-square&color=blue)
-<br>
-<br/>
+# Luke Fishman
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baruch-fischman)
-<br/>
-<br/>
+I build blockchain clients and virtual machines from their specs.
 
-## 💻 Tech Stack:
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%2307405e.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/tailwind-%23081C59.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)&nbsp;
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br/>
-<br/>
-## 🎓 Certifications:
-[![AWS](https://github.com/daiagi/daiagi/assets/22791238/3ffd6331-453b-494c-bb4d-63b31aa1cfd6)](https://www.credly.com/earner/earned/badge/ae7a85e2-4738-4960-a508-532c9d32691c)&nbsp;&nbsp;
-[![PBA](https://github.com/daiagi/daiagi/assets/22791238/31441ed5-6da3-4a47-92cc-18eeeb14805b)](https://kodadot.xyz/ahp/gallery/103-24)
-<br/>
-<br/>
+- **Jamixir** (2024 - now): co-founder of an independent client for Polkadot's JAM protocol, built from the Gray Paper. I wrote the PVM twice, first in Elixir and then in Rust, plus the QUIC networking, Safrole block production and a Rust NIF for Bandersnatch ring-VRF. Jamixir won JAM Prize Milestone 1.
+- **Gray Paper**: [10 merged corrections](https://github.com/gavofyork/graypaper/pulls?q=is%3Apr+author%3Adaiagi+is%3Amerged) to the JAM specification.
+- **[PEER3 state channels](https://github.com/peer3to/state-channels-plus)** (2025 - now): protocol fixes in the dispute and fraud-proof layer of a peer-to-peer state-channel SDK (Solidity, TypeScript), plus its end-to-end test harness and parallel test runner.
+- **sBPF to PVM recompiler** (Polana): a Rust recompiler that runs Solana programs on JAM, tested opcode by opcode against Anza's VM. [Demo](https://asciinema.org/a/783005).
+- **KodaDot**: 208 merged PRs on an open-source Polkadot NFT marketplace, and the Token entity in its [SubSquid indexer](https://github.com/kodadot/stick).
 
+Polkadot Technical Fellowship, Rank 3 (induction pending). Polkadot Blockchain Academy graduate (Hong Kong 2024).
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daiagi&theme=buefy&show_icons=true&hide_border=false&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daiagi&theme=buefy&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiagi&theme=buefy&show_icons=true&hide_border=false&layout=compact" />
-</p>
+Rust · Elixir · TypeScript · Solidity
 
-
-
+[LinkedIn](https://www.linkedin.com/in/baruch-fishman/) · [PVM workshop talk](https://www.youtube.com/watch?v=lF7Di5Qwut4)
