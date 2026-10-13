@@ -1,4 +1,4 @@
-# Luke Fishman
+# Baruch (Luke) Fishman
 
 I build blockchain clients and virtual machines from their specs.
 
